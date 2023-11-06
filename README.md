@@ -1,4 +1,5 @@
 # MeriSKILL Internship Projects
+
 <img src="https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/bb84c133-8793-4b7c-a0d2-1e45bdcaf1fb" class="center">
 
 to the MeriSKILL Data Analyst Internship! This repository contains information and resources for the three exciting data analysis projects you'll be working on during your internship. Below is a brief overview of each project:
