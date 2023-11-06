@@ -23,7 +23,7 @@ The purpose of this project is to utilize data analysis techniques to address HR
 In the HR Analytics project, we will explore various HR-related metrics, such as employee turnover, performance ratings, salary distribution, and more. We will conduct data preprocessing, analysis, and visualization to uncover patterns and trends in the HR data.
 
 ## Data Source
-The dataset for this project contains HR-related data, including information about employees, their performance, salaries, and other relevant HR metrics. The dataset is provided in [data.csv](data.csv).
+The dataset for this project contains HR-related data, including information about employees, their performance, salaries, and other relevant HR metrics. 
 
 ## Tools Used
 - Python for data analysis
@@ -51,7 +51,7 @@ The HR Analytics project provides a comprehensive analysis of HR-related data, o
 
 Feel free to explore the Jupyter Notebook for the complete analysis of the HR Analytics project!
 
----
+## DEMO
 
-**Note**: This is a sample README.md and should be adapted to your specific project and data.
-
+## Auteur
+<kbd>Ayoub ETOULLALI</kbd> 👨‍💻
