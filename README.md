@@ -1,5 +1,5 @@
 # MeriSKILL Internship Projects
-![image](https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/9d2172f7-71f2-4a1e-8a4a-85a21ba4fd88)
+![image](https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/3c027aff-4d10-4803-ae10-961eb54178db)
 
 Welcome to the MeriSKILL Data Analyst Internship! This repository contains information and resources for the three exciting data analysis projects you'll be working on during your internship. Below is a brief overview of each project:
 
@@ -9,12 +9,22 @@ Welcome to the MeriSKILL Data Analyst Internship! This repository contains infor
 
 **Description:** In this project, you will dive into a large sales dataset to extract valuable insights. You'll explore sales trends over time, identify the best-selling products, calculate revenue metrics, and create effective visualizations. This project will showcase your ability to manipulate and derive insights from large datasets, enabling data-driven recommendations for optimizing sales strategies.
 
+**link:**
+<a href="https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData/tree/main/TP1">
+    (1) Event Driven Architecture 
+  </a>
+
 ## Project 2: Diabetic Patients
 
 **Purpose:** Explore diabetic patient data to identify trends and patterns that can aid in improving healthcare outcomes.
 
 **Description:** This project focuses on analyzing diabetic patient data to identify trends, risk factors, and patterns. By applying data analytics, you'll aim to improve healthcare outcomes and contribute to the field of medical research.
 
+**link:**
+<a href="https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData/tree/main/TP1">
+    (1) Event Driven Architecture 
+  </a>
+  
 ## Project 3: HR Analytics
 
 **Purpose:** Delve into the world of human resources, with a focus on data analysis to optimize talent management and organizational performance.
@@ -25,12 +35,9 @@ For detailed instructions, code, and data related to each project, please refer 
 
 Feel free to reach out if you have any questions or need assistance during your internship. Best of luck with your projects!
 
-## TPs
-  <a href="https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData/tree/main/TP1">
+**link:**
+<a href="https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData/tree/main/TP1">
     (1) Event Driven Architecture 
-  </a> <br>
-  <a href="https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData/tree/main/TP2">
-    (2) Micro-services architectures with Spring cloud
   </a> <br> <br>
 
 <br>
