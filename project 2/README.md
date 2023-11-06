@@ -57,6 +57,7 @@ To get started with the "Diabetes Patients" project, follow these steps:
 We would like to acknowledge the dataset providers and the healthcare community for their contributions to diabetes research.
 
 ## DEMO
+https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/a61aa858-a9c0-4169-a56a-0012386f56e2
 
 ## Auteur
 <kbd>Ayoub ETOULLALI</kbd> 👨‍💻
