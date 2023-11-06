@@ -52,6 +52,7 @@ The HR Analytics project provides a comprehensive analysis of HR-related data, o
 Feel free to explore the Jupyter Notebook for the complete analysis of the HR Analytics project!
 
 ## DEMO
+https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/e2b7bf8f-4665-4834-8214-cd2d0b31ceff
 
 ## Auteur
 <kbd>Ayoub ETOULLALI</kbd> 👨‍💻
