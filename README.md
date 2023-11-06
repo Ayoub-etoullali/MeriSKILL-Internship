@@ -1,5 +1,5 @@
 # MeriSKILL Internship Projects
-![image](https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/3c027aff-4d10-4803-ae10-961eb54178db)
+![image](https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/bb84c133-8793-4b7c-a0d2-1e45bdcaf1fb)
 
 Welcome to the MeriSKILL Data Analyst Internship! This repository contains information and resources for the three exciting data analysis projects you'll be working on during your internship. Below is a brief overview of each project:
 
@@ -10,8 +10,8 @@ Welcome to the MeriSKILL Data Analyst Internship! This repository contains infor
 **Description:** In this project, you will dive into a large sales dataset to extract valuable insights. You'll explore sales trends over time, identify the best-selling products, calculate revenue metrics, and create effective visualizations. This project will showcase your ability to manipulate and derive insights from large datasets, enabling data-driven recommendations for optimizing sales strategies.
 
 **link:**
-<a href="https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData/tree/main/TP1">
-    (1) Event Driven Architecture 
+<a href="https://github.com/Ayoub-etoullali/MeriSKILL-Internship/tree/main/project%201">
+    Sales Data Analysis 
   </a>
 
 ## Project 2: Diabetic Patients
@@ -21,8 +21,8 @@ Welcome to the MeriSKILL Data Analyst Internship! This repository contains infor
 **Description:** This project focuses on analyzing diabetic patient data to identify trends, risk factors, and patterns. By applying data analytics, you'll aim to improve healthcare outcomes and contribute to the field of medical research.
 
 **link:**
-<a href="https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData/tree/main/TP1">
-    (1) Event Driven Architecture 
+<a href="https://github.com/Ayoub-etoullali/MeriSKILL-Internship/tree/main/project%202">
+    Diabetic Patients 
   </a>
   
 ## Project 3: HR Analytics
@@ -36,8 +36,8 @@ For detailed instructions, code, and data related to each project, please refer 
 Feel free to reach out if you have any questions or need assistance during your internship. Best of luck with your projects!
 
 **link:**
-<a href="https://github.com/Ayoub-etoullali/Practical-Activities-Parallel-Processing-BigData/tree/main/TP1">
-    (1) Event Driven Architecture 
+<a href="https://github.com/Ayoub-etoullali/MeriSKILL-Internship/tree/main/project%203">
+    HR Analytics
   </a> <br> <br>
 
 <br>
