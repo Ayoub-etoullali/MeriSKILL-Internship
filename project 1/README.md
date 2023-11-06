@@ -78,6 +78,7 @@ This Sales Data Analysis project equips you with the skills to handle and analyz
 Happy analyzing!
 
 ## DEMO
+https://github.com/Ayoub-etoullali/MeriSKILL-Internship/assets/92756846/8dd3a03c-07f1-46a6-8d7b-8586093d330f
 
 ## Auteur
 <kbd>Ayoub ETOULLALI</kbd> 👨‍💻
